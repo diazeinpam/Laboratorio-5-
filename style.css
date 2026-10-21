@@ -1,0 +1,29 @@
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 12px;
+    color: black;
+    background-color: white;
+    margin: 8px;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+.imagen {
+    text-align: center;
+}
+
+.imagen img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul, ol {
+    padding-left: 26px;
+}
